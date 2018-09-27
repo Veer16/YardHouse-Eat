@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "246177472236",
+    "firebase_url": "https://yardhouseeat.firebaseio.com",
+    "project_id": "yardhouseeat",
+    "storage_bucket": "yardhouseeat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246177472236:android:13bcb74f2c60bfaf",
+        "android_client_info": {
+          "package_name": "com.example.parmveer.yardhouseeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246177472236-3jmfeg8ck6g7evetg5jhe7a6fcme5sbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parmveer.yardhouseeat",
+            "certificate_hash": "e816662038586a1198fe87b1b1ab928d50d90606"
+          }
+        },
+        {
+          "client_id": "246177472236-45m6b4bfvt3tbj1ovo0b16bjofuj88v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy3T_fQ9XIyoIT5OiPD3nfOEIy9NW4Dhg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246177472236-45m6b4bfvt3tbj1ovo0b16bjofuj88v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
